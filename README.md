@@ -1,25 +1,24 @@
-### Hi there 👋 I'm Thomas George Thomas,
+### Hi there 👋 I'm Noe Lopez ,
 
-A data engineer passionate about Data Science :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+### About Me
+🔰I am a computer engineer  💜 passionate about 💻 computers, 🌸anime and 💾technology.
 
 
-- ⚡ *Fun fact:* I believe in the Chaos theory: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-- 🔭 I’m currently working on:
-	- Linear regression on Health data
-	- Twitter Sentimental Analysis using NLP and clustering
-- :bulb: I'm interested in all things data: *Big Data, Cloud, Machine Learning and Data Science*
-- 💬 Talk to me about Formula 1 :racing_car:, Memes, anything that interests you.
-- 🌱 I’m currently pursuing *Machine learning*.
+- ⚡ *Fun fact:* I'm a fan of Minecraft
+- 📬 My hobbie: anime,manga, video games, music.
+- ⏰ My schedule: 9:00 - 21:00
+
+
 
 ### My skills include
 
 <p align="center">
-	<img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" />
-	<img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="40" />
-	<img title="Scala" alt="Scala" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="40" height="40" />
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
-	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
-	<img title="Bitbucket" alt="Bitbucket" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bitbucket.svg" height="40" />
+	<img title="Discord" alt="Discord" src="https://img.shields.io/badge/-Discord-0D1117?style=rounded-square&logo=Discord&logoColor=violet" width="80" height="60" />
+	<img title="C" alt="C" src="https://img.shields.io/badge/-C-0D1117?style=rounded-square&logo=C&logoColor=blue" width="80" height="60" />
+	<img title="Cisco" alt="Cisco" src="https://img.shields.io/badge/-Cisco-0D1117?style=rounded-square&logo=cisco&logoColor=blue" width="90" height="60" />
+	<img title="Java" alt="Java" src="https://img.shields.io/badge/-Java-0D1117?style=rounded-square&logo=java&logoColor=white" width="80" height="60" />
+	<img title="SQL" alt="SQL" src="https://img.shields.io/badge/-SQL-0D1117?style=rounded-square&logo=sql&logoColor=white" width="80" height="60" />
+	<img title="Bitbucket" alt="Bitbucket" src="<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Windows</title><path d="M0 3.449L9.75 2.1v9.451H0m10.949-9.602L24 0v11.4H10.949M0 12.6h9.75v9.451L0 20.699M10.949 12.6H24V24l-12.9-1.801"/></svg>" height="40" />
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
 	<img title="Bamboo" alt="Bamboo" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bamboo.svg" width="40" height="40" />	
 	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
