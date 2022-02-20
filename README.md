@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Noe Lopez ,
+### Hi there 👋 I'm Noe Lopez 🐧 ,
 
  <!-- Sections -->
 <p align="center">
@@ -10,7 +10,7 @@
    <br> 
    <i>⚡ *Fun fact:* I'm a fan of Minecraft </i>
    <br>
-   <i>📬 My hobbie: anime,manga, video games, music.</i>
+   <i>📬 My hobbie: anime, manga, video games, music.</i>
    <br>
    <i>⏰ My schedule: 9:00 - 21:00 </i>
    <br>
@@ -79,13 +79,13 @@ If you find my work good, consider giving it a ⭐ or fork-ing to show some ❤�
    <br>
 <br>	
 
-<!--Links-->
+<!--Redes-->
 
 <p align="center"> 
-<a target="_blank" href="https://www.facebook.com/noe.lopezolvera/"><img title="Facebook" alt="Facebook" src="https://img.shields.io/badge/-Facebook-FFFFFF?style=for-the-badge&logo=Facebook"></img></a>
-<a target="_blank" href="mailto:thomasgeorgethomas@gmail.com"><img title="Gmail" alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href=" "><img title="Instagram" alt="Instagram" src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/bagnygato"><img title="Twitter" alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<a target="blank" href="https://discord.com/channels/@me" ><img title="Discord" alt="Discord" src="https://img.shields.io/badge/-Discord-FFFFFF?style=for-the-badge&logo=Discord"></img></a>
+<a href="https://www.facebook.com/noe.lopezolvera/" target="_BLANK" ><img title="Facebook" alt="Facebook" src="https://img.shields.io/badge/-Facebook-FFFFFF?style=for-the-badge&logo=Facebook"></img></a>
+<a href="mailto:nlopez16@alumnos.uaq.mx" target="_blank"><img title="Gmail" alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a href="https://www.instagram.com/noe._.lopez" target="_blank" ><img title="Instagram" alt="Instagram" src="https://img.shields.io/badge/-Instagram-12100E?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
+<a href="https://twitter.com/bagnygato" target="_blank" ><img title="Twitter" alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a href="https://discord.com/channels/@me" target="_blank"><img title="Discord" alt="Discord" src="https://img.shields.io/badge/-Discord-FFFFFF?style=for-the-badge&logo=Discord"></img></a>
 <br>
 </p>
