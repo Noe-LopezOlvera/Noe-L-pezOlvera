@@ -15,6 +15,7 @@
    <i>⏰ My schedule: 9:00 - 21:00 </i>
    <br>
 
+
 <!--
 
 ### About Me
@@ -36,10 +37,12 @@
 <br>
 <!--Logo-->
 <p align="center">
-	<img title="C" alt="C" src="https://img.shields.io/badge/-C-FFFFFF?style=rounded-square&logo=C&logoColor=blue" width="80" height="60" />
-	<img title="Cisco" alt="Cisco" src="https://img.shields.io/badge/-Cisco-FFFFFF?style=rounded-square&logo=cisco" width="90" height="60" />
-	<img title="Java" alt="Java" src="https://img.shields.io/badge/java-FFFFFF?style=rounded-square&logo=java&logoColor=blue" width="80" height="60" />
-	<img title="SQL" alt="SQL" src="https://img.shields.io/badge/-SQL-FFFFFF?style=rounded-square&logo=sql" width="80" height="60" />
+	<img title="C" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="80" height="60" />
+	<img title="Cisco" alt="Cisco" src="https://img.shields.io/badge/cisco-FF0000?style=for-the-badge&logo=cisco&logoColor=white" width="90" height="60" />
+	<img title="Java" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="80" height="60" />
+	<img title="SQL" alt="SQL" src="https://img.shields.io/badge/sql-EA07E8?style=for-the-badge&logo=sql&logoColor=white" width="80" height="60" />
+   <img title="C++" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B" width="80" height="60" />
+   <img title="C Sharp" alt="C#"src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="80" height="60"/>
 	
 </p>
 
